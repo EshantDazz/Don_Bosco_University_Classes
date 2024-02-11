@@ -1,0 +1,11 @@
+1) Virtual Enviroemnts
+
+Creating 
+activating
+req.txt 
+.env to protect your api keys
+running ipynb files within virtual enviroments
+Openai APi In python (chat completion)
+Prompt Engineering techniques:
+   a) Using delimeters
+   b) Using Json Format
